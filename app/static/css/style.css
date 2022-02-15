@@ -1,0 +1,9 @@
+body {
+    font-family: Helvetica, "Helvetica Neue", sans-serif;
+}
+.red {
+    color : red;
+}
+.makeBigger {
+    font-size : 120%;
+}
